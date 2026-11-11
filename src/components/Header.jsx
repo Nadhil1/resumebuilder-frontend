@@ -12,7 +12,6 @@ import {Link} from 'react-router-dom'
 export default function Header() {
   return (
     <div>
-      Header
       <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static"
       sx={{backgroundColor:"Black",color:"white"}}>
